@@ -8,15 +8,15 @@ author_profile: true
 Pre-prints of note 
 ====
 
-  * (O'Connor T, Grant CE, Boden M and Bailey TL. T-Gene: Improved target gene prediction.)[http://biorxiv.org/cgi/content/short/803221v1]
-  * (Shim WJ, Sinniah E et al. Comparative analysis of diverse cell states establishes an epigenetic basis for inferring regulatory genes governing cell identity.) [https://www.biorxiv.org/content/10.1101/635516v1]
-  * (Lai JS, Rost B, Kobe B and Bodén M. Evolutionary model of protein secondary structure capable of revealing new biological relationships.) [https://www.biorxiv.org/content/10.1101/563452v1]
+  * [O'Connor T, Grant CE, Boden M and Bailey TL. T-Gene: Improved target gene prediction.](http://biorxiv.org/cgi/content/short/803221v1)
+  * [Shim WJ, Sinniah E et al. Comparative analysis of diverse cell states establishes an epigenetic basis for inferring regulatory genes governing cell identity.](https://www.biorxiv.org/content/10.1101/635516v1)
+  * [Lai JS, Rost B, Kobe B and Bodén M. Evolutionary model of protein secondary structure capable of revealing new biological relationships.](https://www.biorxiv.org/content/10.1101/563452v1)
 
 Journal papers (since 2000) 
 ====
 
-  * Horsefield S, et al. (2019) NAD+ cleavage activity by animal and plant TIR domains in cell death pathways. //Science// 365(6455):793-799. DOI [https://doi.org/10.1126/science.aax1911] [https://science.sciencemag.org/content/365/6455/793]
-  * Foley G, Sützl L, D'Cunha SA, Gillam EMJ and Bodén M (2019). SeqScrub: A web tool for automatic cleaning and annotation of FASTA file headers for bioinformatic applications. //Biotechniques//. DOI [[https://doi.org/10.2144/btn-2018-0188|10.2144/btn-2018-0188]]
+  * [Horsefield S, et al. (2019) NAD+ cleavage activity by animal and plant TIR domains in cell death pathways. //Science// 365(6455):793-799.](https://doi.org/10.1126/science.aax1911)
+  * [Foley G, Sützl L, D'Cunha SA, Gillam EMJ and Bodén M (2019). SeqScrub: A web tool for automatic cleaning and annotation of FASTA file headers for bioinformatic applications. //Biotechniques//.](https://doi.org/10.2144/btn-2018-0188)
   * Littmann M, Goldberg T, Seitz S, Bodén M and Rost B (2019). Detailed prediction of protein sub-nuclear localization. //BMC Bioinformatics//. 20(1):205. DOI [[https://doi.org/10.1186/s12859-019-2790-9|10.1186/s12859-019-2790-9]]
   * Sützl L, Foley G, Gillam EM, Bodén M and Haltrich D (2019). The GMC family of oxidoreductases revisited: analysis and evolution of fungal GMC oxidoreductases. //Biotechnology for Biofuels//. 12:118. DOI [[https://doi.org/10.1186/s13068-019-1457-0|10.1186/s13068-019-1457-0]]
   * Fraser J, Essebier A, Brown A, Ayala Davila R, Sengar A, Tu A, Ensbey K, Day B, Scott M, Gronostajski R, Wainwright B, Bodén M,  Harvey T and Piper M. (2019) Granule neuron precursor cell proliferation is regulated by NFIX and intersectin 1 during postnatal cerebellar development. //Brain Structure and Function//. 224:2, pp 811–827. DOI [[https://doi.org/10.1007/s00429-018-1801-3|10.1007/s00429-018-1801-3]]
