@@ -5,14 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-==== Pre-prints of note ====
+Pre-prints of note 
+====
 
   * O'Connor T, Grant CE, Boden M and Bailey TL. T-Gene: Improved target gene prediction. [[http://biorxiv.org/cgi/content/short/803221v1|http://biorxiv.org/cgi/content/short/803221v1]]
   * Shim WJ, Sinniah E et al. Comparative analysis of diverse cell states establishes an epigenetic basis for inferring regulatory genes governing cell identity. [[https://www.biorxiv.org/content/10.1101/635516v1|https://www.biorxiv.org/content/10.1101/635516v1
 ]]
   * Lai JS, Rost B, Kobe B and Bodén M. Evolutionary model of protein secondary structure capable of revealing new biological relationships. [[https://www.biorxiv.org/content/10.1101/563452v1|https://www.biorxiv.org/content/10.1101/563452v1]]
 
-==== Journal papers (since 2000) ====
+Journal papers (since 2000) 
+====
 
   * Horsefield S, et al. (2019) NAD+ cleavage activity by animal and plant TIR domains in cell death pathways. //Science// 365(6455):793-799. DOI [[https://doi.org/10.1126/science.aax1911|10.1126/science.aax1911]] [[https://science.sciencemag.org/content/365/6455/793|Link direct to Science]]
   * Foley G, Sützl L, D'Cunha SA, Gillam EMJ and Bodén M (2019). SeqScrub: A web tool for automatic cleaning and annotation of FASTA file headers for bioinformatic applications. //Biotechniques//. DOI [[https://doi.org/10.2144/btn-2018-0188|10.2144/btn-2018-0188]]
@@ -84,7 +86,8 @@ author_profile: true
   * Bodén, M. and Wiles, J., Context-free and context-sensitive dynamics in recurrent neural networks, //Connection Science//, 12 (3/4), pp. 197-210, 2000.
   * Bodén, M. and Niklasson, L., Semantic systematicity and context in connectionist Networks, //Connection Science//, 12 (2), pp. 111-142, 2000.
 
-==== Refereed conference papers (since 2000) ====
+Refereed conference papers (since 2000) 
+====
 
   * Mazgut J, Tino P, Bodén M and Yan H (2010) Multilinear Decomposition and Topographic Mapping of Binary Tensors Artificial Neural Networks - ICANN 2010. K Diamantaras, W Duch, LS Iliadis (Eds.). //Lecture Notes in Computer Science//, Vol. 6352. pp. 317-326. Springer-Verlag, 2010.
   * Arieshanti I, Bodén M, Maetschke S and Buske F (2009) Detecting sequence and structure homology via an integrative kernel: A case-study in recognizing enzymes. //Proceedings of the IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology//, pp. 46-52.
@@ -108,7 +111,8 @@ author_profile: true
   * Bodén, M. Generalization by structural properties from sparse nested symbolic data. In Proceedings of ESANN 2002 -- //Special session on Perspectives on Learning with Recurrent Networks//, pp. 377-382, 2002.
   * Bodén, M., Jacobsson, H. and Ziemke, T. (2000), Evolving context-free language predictors. In GECCO-2000: //Proceedings of the Genetic and Evolutionary Computation Conference//.
 
-==== Book chapters (since 2000) ====
+Book chapters (since 2000) 
+====
 
   * Zaugg J, Gumulya Y, Gillam EMJ and Bodén M. (2014) Computational Tools for Directed Evolution: A Comparison of Prospective and Retrospective Strategies. Ackerley et al. (eds). //Methods Mol Biol//. 2014;1179:315-33. DOI: [[http://dx.doi.org/10.1007/978-1-4939-1053-3_21|10.1007/978-1-4939-1053-3_21]]
   * Tino P, Hammer B and Bodén M (2007) Markovian bias of neural-based architectures with feedback connections. //Perspectives of Neural-Symbolic Integration, Hitzler and Hammer (eds)//, pp. 95-133. Springer Verlag.
